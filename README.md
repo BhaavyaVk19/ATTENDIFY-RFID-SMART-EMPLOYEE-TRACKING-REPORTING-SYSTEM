@@ -5,31 +5,47 @@ The project eliminates manual attendance processes, improves accuracy, reduces a
 🎯 Objectives
 
   Automate employee attendance management.
+  
   Reduce manual attendance errors.
+  
   Track employee entry and exit timings.
+  
   Calculate working hours automatically.
+  
   Generate attendance reports and activity logs.
+  
   Provide user management through an admin interface.
 
   🔧 Hardware Requirements
   
 LPC2148 ARM7 Microcontroller
+
 RFID Reader
+
 RFID Cards/Tags
+
 16x2 LCD Display
+
 4x4 Matrix Keypad
-MAX232
+
 AT25LC512 SPI EEPROM
+
 USB-to-UART Converter
+
 Push Buttons / Switches
 
 
 💻 Software Requirements
 
 Embedded C
+
 Keil uVision IDE
+
 Flash Magic
+
 Linux OS
+
 GCC Compiler
+
 UART Communication Libraries
 
